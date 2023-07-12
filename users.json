@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Harry Potter",
+        "email": "harrypotter@hogwarts.com",
+        "mobile_no": "1234567890",
+        "password": "pitradevsanrakshnam",
+        "gender": "male",
+        "role": "student"
+    },
+    {
+        "id": 2,
+        "name": "Ron Weasley",
+        "email": "ron.weasley@hogwarts.com",
+        "mobile_no": "0987654321",
+        "password": "loremipsum",
+        "gender": "male",
+        "role": "student"
+    },
+    {
+        "id": 3,
+        "name": "Hermoine",
+        "email": "hermoine@hogwarts.com",
+        "mobile_no": "4321567890",
+        "password": "RonWeasley",
+        "gender": "female",
+        "role": "student"
+    },
+    {
+        "id": 4,
+        "name": "Dumbledore",
+        "email": "dumbledore@hogwarts.com",
+        "mobile_no": "9876543210",
+        "password": "Dumbledoor",
+        "gender": "male",
+        "role": "admin"
+    },
+    {
+        "id": 5,
+        "name": "Severus Snape",
+        "email": "severus.snape@hogwarts.com",
+        "mobile_no": "9988776655",
+        "password": "ProfSnape",
+        "gender": "male",
+        "role": "teacher"
+    }
+]
